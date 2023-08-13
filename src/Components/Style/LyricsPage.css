@@ -1,0 +1,29 @@
+.lyrics-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.back-button {
+  width: 15%;
+  padding: 0.5vw;
+  font-size: 2vw;
+}
+
+.lyrics-body {
+  text-align: center;
+  background-color: rgba(134, 4, 4, 0.261);
+  font-size: 2vw;
+}
+
+@media (max-width: 768px) {
+  .back-button {
+    width: 20%;
+    font-size: 3vw;
+  }
+  .lyrics-body {
+    font-size: 4vw;
+  }
+}

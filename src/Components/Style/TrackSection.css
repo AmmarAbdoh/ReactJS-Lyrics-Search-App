@@ -1,0 +1,18 @@
+.tracks-title {
+  color: white;
+  font-size: 2.5vw;
+}
+
+.track-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 75%;
+  padding: 0 2vw 0 2vw;
+}
+
+@media (max-width: 768px) {
+  .tracks-title {
+    font-size: 5vw;
+  }
+}

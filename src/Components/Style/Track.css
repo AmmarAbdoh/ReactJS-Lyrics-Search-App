@@ -1,0 +1,54 @@
+.track {
+  width: calc(50% - 10px);
+  margin-bottom: 2vw;
+  background-color: whitesmoke;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.song-name {
+  font-size: 2vw;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.track-name {
+  font-size: 1.5vw;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.album {
+  font-size: 1.5vw;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.track-button {
+  width: 100%;
+  font-size: 1.5vw;
+  padding: 0.5vw;
+}
+
+@media (max-width: 768px) {
+  .track {
+    width: calc(100% - 10px);
+  }
+  .song-name {
+    font-size: 4vw;
+  }
+  .track-name {
+    font-size: 3vw;
+  }
+  .album {
+    font-size: 3vw;
+  }
+  .track-button {
+    font-size: 3vw;
+  }
+}
