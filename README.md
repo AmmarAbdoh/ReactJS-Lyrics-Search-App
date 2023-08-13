@@ -1,5 +1,10 @@
 ﻿# ReactJS-Lyrics-Search-App
 
+![1](https://github.com/AmmarAbdoh/ReactJS-Lyrics-Search-App/assets/90091361/c748f24f-b22a-4327-a188-8e8e0472daf7)
+
+![2](https://github.com/AmmarAbdoh/ReactJS-Lyrics-Search-App/assets/90091361/d0f9dbf4-27d3-45bf-b604-87c7def2b6f4)
+
+![3](https://github.com/AmmarAbdoh/ReactJS-Lyrics-Search-App/assets/90091361/c9a6e732-1464-4f26-b044-c697f3d4ffa1)
 
 Follow these steps to run my application on your local machine:
 
